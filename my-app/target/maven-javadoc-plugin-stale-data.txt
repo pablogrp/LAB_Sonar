@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Practica1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Practica1 1.0-SNAPSHOT API'
+es.ull.app
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/src/main/java/.DS_Store = 1729763130000
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/src/main/java = 1729763129999
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/tag-search-index.js = 1730373227209
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/overview-tree.html = 1730373227201
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/module-search-index.js = 1730373227208
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/index.html = 1730373227214
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/package-search-index.js = 1730373227209
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/jquery-ui.overrides.css = 1730373227224
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/index-all.html = 1730373227214
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/allpackages-index.html = 1730373227208
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/member-search-index.js = 1730373227209
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/script.js = 1730373227220
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/stylesheet.css = 1730373227218
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/help-doc.html = 1730373227217
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/element-list = 1730373227186
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/allclasses-index.html = 1730373227207
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/type-search-index.js = 1730373227209
+/Volumes/Steven 1/Cosas de clase/Cuarto/Laboratorio de herramientas/Clases/Maven/Maven/my-app/target/reports/apidocs/search.js = 1730373227221
